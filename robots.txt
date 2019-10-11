@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://atiebailof.xokk.ru/sitemap.xml
